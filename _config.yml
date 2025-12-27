@@ -19,7 +19,7 @@
 
 title:            'Medieval Fragments at Cornell'
 description:      'A minimal collections exhibit platform'
-url:              'https://kam535.github.io'
+url:              'https://green-queen.github.io'
 baseurl:          '/medieval-fragments'
 copyright:        'Cornell University Digital CoLab, 2024'
 logo:             '/img/book.png'
@@ -181,7 +181,7 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/kam535/waxbuilder'
+      link: 'https://github.com/green-queen/waxbuilder'
     - label: 'Credits'
       link: '/credits'
     - label: 'Wax Wiki'
